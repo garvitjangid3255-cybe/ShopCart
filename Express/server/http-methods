@@ -1,0 +1,4 @@
+//GET => Server se data fetch karvana ho tab use karte hai!!
+// POST => server par data send karna ho tab use karte hai!
+// PATCH=> server par data already hai par hume us data ko update karna ho tab use karte hai
+// DELETE => server par data delete karna ho tab use karte hai  
